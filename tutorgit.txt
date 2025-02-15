@@ -1,0 +1,4 @@
+Latihan git 
+1. Git config
+2. Git init
+NI HAO LE
