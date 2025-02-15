@@ -1,0 +1,2 @@
+# Pertama
+awalan tutorial
